@@ -1,4 +1,4 @@
-# ReactionSpeedGame
+# Reaction Speed Game
 
 # Author
 Jonathan Hotchkiss
