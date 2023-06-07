@@ -12,3 +12,5 @@ If you score 0-10 points, the lights will be white and the number of lit up ligh
 If you score 11-20 points, the lights will be blue and your total points will be the number of lights lit up plus 10.
 If you score 21-30 points, the lights will be green and your total points will be the number of lights lit up plus 20.
 If you score 31 or more points, the lights will alternate between white and magenta, like sparkles. At this point, you have beaten the game, Congratulations!
+
+## Game Inputs/Outputs
