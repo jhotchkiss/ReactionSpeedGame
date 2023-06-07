@@ -4,7 +4,7 @@
 Jonathan Hotchkiss
 
 # About The Game
-The point of this game is to test reaction time. When you slide the switch, a sound will come from the board, or a neopixel/light on the border will light up. If a sound comes from the board, then you must press the left button as quickly as possible. If the board lights up with a color, then press the right button as soon as you can. The time you have to press the buttons will start to decrease the farther along that you get. If the timer runs out, or the wrong button is pressed, the board will flash red 3 times, then after a few seconds, your score will be shown. To start each round, slide the switch in either direction one time.
+The point of this game is to test reaction time. When you slide the switch, a sound will come from the board, or a neopixel/light on the border will light up. If a sound comes from the board, then you must press the left button as quickly as possible. If the board lights up with a color, then press the right button as soon as you can. The time you have to press the buttons will start to decrease the farther along that you get. If the timer runs out, or the wrong button is pressed, the board will flash red 3 times, then after a few seconds, your score will be shown. View the scoring guide below for help. To start each round, slide the switch one time.
 
 # Scoring:
 Points will be shown by the color and number of lights shown. 
