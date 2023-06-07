@@ -47,10 +47,12 @@ void loop() {
     else if (randomNum == 1 && leftButton){
       points++;
       CircuitPlayground.clearPixels();
+      correctGuess();
     }
     else if (randomNum == 0 && rightButton){
       points++;
       CircuitPlayground.clearPixels();
+      correctGuess();
     }
     else {
       endOfGame(points);
@@ -113,6 +115,14 @@ void colorPatterns(int score) {
       delay(100);
     }
   }
+  CircuitPlayground.clearPixels();
+}
+
+void correctGuess() {
+  for (int i = 0; i < 10; i++) {
+    CircuitPlayground.setPixelColor(i, 0, 255, 0);
+  }
+  delay(250);
   CircuitPlayground.clearPixels();
 }
 
