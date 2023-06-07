@@ -17,4 +17,5 @@ the lights will be green and your total points will be the number of lights lit 
 ### If you score 31 or more points
 the lights will alternate between white and magenta, like sparkles. At this point, you have beaten the game, Congratulations!
 
-## Game Inputs/Outputs
+# Game Inputs/Outputs
+When the switch is moved, a color will light up on the board, or a sound will be made. In response to these actions, the user will either press the left button or right button. At the conclusion of the game, the lights will light up the board signaling game over.
